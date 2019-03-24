@@ -7,6 +7,7 @@ Finished Parts (passed local tests provided by the course):
    * Map Rastering (Part I)  
    * Routing & Location Data (Part II)  
    * Route Search (Part III)  
+   
 Unfinished Parts:  
    * Turn-by-turn Navigation
    * Autocompletion and Search  
